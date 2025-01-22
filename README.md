@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating c
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Status  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=palak-parwani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-parwani&layout=compact&theme=radical)
