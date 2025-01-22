@@ -14,10 +14,8 @@ Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating c
 
 
 ## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-parwani-203a36236/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/palakparwanii__/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/palakparwani__)
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2019.svg)](https://www.linkedin.com/in/palak-parwani-203a36236/)  
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/palakparwanii__/)  
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://x.com/palakparwani__)
 
 
 
