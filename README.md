@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm [Palak Parwani]  
 
 Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating clean, responsive, and user-friendly web experiences. 🚀  
 
@@ -11,22 +11,19 @@ Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating c
 
 ---
 
-## 🌱 What I'm Working On  
-- **To-Do List Web App**: A user-friendly app to stay organized. Check it out [here](#).  
-- Exploring advanced React concepts to level up my skills.  
 
----
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-parwani-203a36236/)
+
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=palak-parwani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-parwani&layout=compact&theme=radical)
+ 
 
 ---
 
