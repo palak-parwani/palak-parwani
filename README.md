@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating c
 
 ## 🛠️ Technologies & Skills  
 - **Frontend**: HTML5, CSS3, JavaScript  
+- **React**: Exploring and building modern web apps  
 - **Responsive Design**: Crafting websites that look great on any device  
-- **Currently Learning**: React - exploring the world of dynamic, modern web applications  
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating c
 
 ---
 
-## 📊 GitHub Status  
+## 📊 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=palak-parwani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-parwani&layout=compact&theme=radical)
