@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Palak Parwani]  
+# 👋 Hi there! I'm Palak Parwani 
 
 Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating clean, responsive, and user-friendly web experiences. 🚀  
 
