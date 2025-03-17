@@ -6,8 +6,9 @@ Welcome to my GitHub! I'm a passionate **Web Developer** dedicated to creating c
 
 ## 🛠️ Technologies & Skills  
 - **Frontend**: HTML5, CSS3, JavaScript  
-- **React**: Exploring and building modern web apps  
-- **Responsive Design**: Crafting websites that look great on any device  
+- **React**:  Building dynamic and interactive web applications
+- **Next.js**:  Developing server-side rendered and static web applications
+- **Responsive Design**: Crafting websites that look great on any device
 
 ---
 
